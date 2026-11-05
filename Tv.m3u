@@ -68,7 +68,7 @@ http://213.163.13.122:1559/udp/239.1.10.126:2000
 #EXTINF:0 type="stream" channelId="4728" name="Mozi+" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Mozi%2B.png", Mozi+
 http://213.163.13.122:1559/udp/239.1.10.64:2000
 #EXTINF:0 type="stream" channelId="4732" name="Moziverzum" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Moziverzum.png" size="Big", Moziverzum
-http://88.212.7.14/live/moziverzum/index.m3u8
+http://141.94.193.53:80/Moziverzum_HD/index.m3u8
 #EXTINF:0 type="stream" channelId="4727" name="Film Mánia" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Film%20mania.png" size="Big", Film Mánia
 http://213.163.13.122:1559/udp/239.1.10.96:2000
 #EXTINF:0 type="stream" channelId="4488" name="Film Café" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Filmcafe.png", Film Café
