@@ -15,7 +15,7 @@ http://213.163.13.122:1559/udp/239.1.10.143:2000
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Canal+ Action" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Chanel%2B.png" size="Big", Canal+ Action
 http://193.33.39.108:9016/play/a02n
-#EXTINF:0 type="stream" channelId="-1" name="Premium action" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Chanel%2B.png" size="Big", Movie+
+#EXTINF:0 type="stream" channelId="-1" name="Premium action" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/Chanel%2B.png" size="Big", Premium action
 http://scriptandstream.nhely.hu/freesweet.php?ch=3868
 #EXTINF:0 type="stream" channelId="1330" name="HBO HD" logo="https://raw.githubusercontent.com/Lutz86/Csatorn-k/refs/heads/main/HBO.png" size="Big", HBO HD
 http://213.163.13.122:1559/udp/239.1.10.37:2000
